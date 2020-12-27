@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\splain\splain\splain\bin\Debug\splain.exe.config
+C:\Users\User\Documents\GitHub\splain\splain\splain\bin\Debug\splain.exe
+C:\Users\User\Documents\GitHub\splain\splain\splain\bin\Debug\splain.pdb
+C:\Users\User\Documents\GitHub\splain\splain\splain\obj\Debug\splain.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\splain\splain\splain\obj\Debug\splain.Form1.resources
+C:\Users\User\Documents\GitHub\splain\splain\splain\obj\Debug\splain.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\splain\splain\splain\obj\Debug\splain.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\splain\splain\splain\obj\Debug\splain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\splain\splain\splain\obj\Debug\splain.exe
+C:\Users\User\Documents\GitHub\splain\splain\splain\obj\Debug\splain.pdb
